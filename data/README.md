@@ -22,3 +22,8 @@
 - Frame 별 Crop된 입술 사진 저장
 - Frame 별 입술의 landmark 값 Excel에 저장
 
+### Datacollect
+[데이터 수집](https://github.com/dnwjddl/LipReading_Korean/blob/master/data/DataCollect.ipynb)  
+
+### Preprocessing
+[데이터 전처리](https://github.com/dnwjddl/LipReading_Korean/blob/master/data/Preprocessing_dataset.ipynb)
